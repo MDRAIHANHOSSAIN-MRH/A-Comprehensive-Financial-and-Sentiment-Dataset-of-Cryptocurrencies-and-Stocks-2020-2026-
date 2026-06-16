@@ -48,4 +48,9 @@ This multimodal dataset is heavily optimized for:
 -----------------------
 Distributed under Creative Commons Attribution 4.0 International (CC BY 4.0). 
 Please cite this dataset repository and its official DOI if utilized in any academic or commercial publications.
+
+Link: https://data.mendeley.com/datasets/552326krwn/2
+
+Cite this dataset:
+HOSSAIN, MD RAIHAN (2026), “A Comprehensive Financial and Sentiment Dataset of Cryptocurrencies and Stocks (2020–2026)”, Mendeley Data, V2, doi: 10.17632/552326krwn.2
 ========================================================================
